@@ -22,16 +22,14 @@
 <table>
 <tr>
 <td width="70%" valign="middle">
-
-**Hi, I'm Xaven.** I work across **AI engineering, software architecture, and backend systems**, building practical products from the data layer to the user experience.
-
-My interests sit where intelligent software meets dependable infrastructure: LLM applications, distributed services, event-driven systems, and the kind of engineering that holds up outside a demo.
-
-- **Currently exploring:** LLM systems, reliable agent workflows, and low-latency infrastructure.
-- **Building:** AI-powered products, job discovery platforms, and developer-facing systems.
-- **Working with:** Python, Rust, TypeScript, Go, PostgreSQL, Redis, and Docker.
-- **Engineering principle:** Design carefully, test thoroughly, and keep the operational details honest.
-
+<p><strong>Hi, I'm Xaven.</strong> I work across <strong>AI engineering, software architecture, and backend systems</strong>, building practical products from the data layer to the user experience.</p>
+<p>My interests sit where intelligent software meets dependable infrastructure: LLM applications, distributed services, event-driven systems, and the kind of engineering that holds up outside a demo.</p>
+<ul>
+<li><strong>Currently exploring:</strong> LLM systems, reliable agent workflows, and low-latency infrastructure.</li>
+<li><strong>Building:</strong> AI-powered products, job discovery platforms, and developer-facing systems.</li>
+<li><strong>Working with:</strong> Python, Rust, TypeScript, Go, PostgreSQL, Redis, and Docker.</li>
+<li><strong>Engineering principle:</strong> Design carefully, test thoroughly, and keep the operational details honest.</li>
+</ul>
 </td>
 <td width="30%" align="center" valign="middle">
 
