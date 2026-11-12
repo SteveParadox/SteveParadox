@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="240" viewBox="0 0 280 240" role="img" aria-labelledby="title desc">
+<title id="title">Astronaut floating among stars</title><desc id="desc">Minimal white line illustration of an astronaut on a black star field.</desc>
+<rect x="1" y="1" width="278" height="238" rx="2" fill="#090b0f" stroke="#30343a"/>
+<g fill="#d9dce1" opacity=".65">
+<circle cx="21" cy="22" r="1"/><circle cx="69" cy="55" r="1.2"/><circle cx="241" cy="27" r="1"/><circle cx="193" cy="49" r="1.2"/><circle cx="250" cy="98" r="1.5"/><circle cx="31" cy="146" r="1.1"/><circle cx="84" cy="204" r="1.1"/><circle cx="219" cy="200" r="1.2"/><circle cx="255" cy="188" r="1"/><circle cx="164" cy="16" r=".7"/><circle cx="44" cy="225" r=".8"/>
+</g>
+<g stroke="#cfd3d8" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-24 139 122)">
+<rect x="112" y="104" width="49" height="71" rx="13" fill="#343941" stroke="#9da5ad"/>
+<path d="M118 124 L87 110 Q74 106 70 91 L67 84" stroke-width="14"/>
+<path d="M159 125 L184 108 L207 104" stroke-width="14"/>
+<path d="M128 165 L110 198 L93 208" stroke-width="17"/>
+<path d="M156 164 L175 188 L188 204" stroke-width="17"/>
+<path d="M75 81 L62 72 M207 105 L221 110 M93 207 L82 218 M189 204 L196 219" stroke-width="13"/>
+<rect x="115" y="109" width="52" height="64" rx="15" fill="#e1e3e5" stroke="#cdd2d8"/>
+<rect x="132" y="129" width="28" height="20" rx="4" fill="#4a535c" stroke="#8a939e" stroke-width="1.5"/>
+<circle cx="140" cy="136" r="2.3" fill="#ddd" stroke="none"/><circle cx="150" cy="136" r="2.3" fill="#ddd" stroke="none"/>
+<circle cx="138" cy="85" r="31" fill="#e0e2e5" stroke="#aeb3bb"/>
+<ellipse cx="138" cy="83" rx="24" ry="22" fill="#14181d" stroke="#9ca6b0" stroke-width="2"/>
+<path d="M122 74 Q138 61 152 72" stroke="#eee" stroke-width="3" opacity=".8"/>
+<path d="M166 79 Q187 68 201 62" stroke="#7d838e" stroke-width="2"/>
+</g>
+<text x="18" y="223" fill="#5a626c" font-family="monospace" font-size="9" letter-spacing="1.5">EXPLORING THE UNKNOWN</text>
+</svg>
