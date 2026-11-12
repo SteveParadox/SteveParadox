@@ -1,58 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="390" viewBox="0 0 1400 390" role="img" aria-labelledby="title desc">
-<title id="title">Xaven — AI Engineer and Software Architect</title>
-<desc id="desc">Dark premium developer banner in navy, cyan, and violet with geometric network and a code panel.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
+<title id="title">Welcome to Xaven's GitHub</title>
+<desc id="desc">Monochrome cinematic desert landscape and winding silver river beneath a minimalist title.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0%" stop-color="#091323"/>
-    <stop offset="52%" stop-color="#101A33"/>
-    <stop offset="100%" stop-color="#18143A"/>
-  </linearGradient>
-  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0%" stop-color="#52E3D4"/>
-    <stop offset="55%" stop-color="#55B9F3"/>
-    <stop offset="100%" stop-color="#B286F6"/>
-  </linearGradient>
-  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0%" stop-color="#1A2A43" stop-opacity=".97"/>
-    <stop offset="100%" stop-color="#181D39" stop-opacity=".96"/>
-  </linearGradient>
-  <pattern id="grid" width="35" height="35" patternUnits="userSpaceOnUse">
-    <path d="M 35 0 L 0 0 0 35" fill="none" stroke="#8FC7E8" stroke-opacity=".07" stroke-width="1"/>
-  </pattern>
-  <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
-    <feGaussianBlur stdDeviation="31"/>
-  </filter>
+ <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#14171b"/><stop offset=".25" stop-color="#424449"/><stop offset=".56" stop-color="#a3a4a4"/><stop offset=".78" stop-color="#d6d6d4"/><stop offset="1" stop-color="#e8e8e5"/>
+ </linearGradient>
+ <linearGradient id="river" x1=".3" y1="0" x2=".65" y2="1">
+  <stop offset="0" stop-color="#dadbd9"/><stop offset=".5" stop-color="#e9e9e6"/><stop offset="1" stop-color="#f3f3f0"/>
+ </linearGradient>
+ <linearGradient id="dune" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#15171a"/><stop offset=".5" stop-color="#0c0e12"/><stop offset="1" stop-color="#07090c"/>
+ </linearGradient>
+ <linearGradient id="left" x1="0" y1="0" x2="1" y2=".3"><stop offset="0" stop-color="#080a0d"/><stop offset="1" stop-color="#202225"/></linearGradient>
+ <radialGradient id="light" cx="50%" cy="55%" r="65%"><stop offset="0" stop-color="#f1f1ef" stop-opacity=".40"/><stop offset="1" stop-color="#a0a0a0" stop-opacity="0"/></radialGradient>
+ <filter id="soft"><feGaussianBlur stdDeviation="2"/></filter>
 </defs>
-<rect width="1400" height="390" rx="24" fill="url(#bg)"/>
-<rect width="1400" height="390" rx="24" fill="url(#grid)"/>
-<circle cx="1380" cy="25" r="180" fill="#7D68E8" opacity=".20" filter="url(#glow)"/>
-<circle cx="530" cy="390" r="160" fill="#14B8A6" opacity=".12" filter="url(#glow)"/>
-<path d="M60 64 H118" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
-<circle cx="75" cy="105" r="5" fill="#62E1D2"/>
-<text x="93" y="111" fill="#8CAAC7" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="4">STEVE PARADOX / @STEVEPARADOX</text>
-<text x="66" y="208" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="91" letter-spacing="-4">XAVEN</text>
-<rect x="68" y="228" width="420" height="4" rx="2" fill="url(#accent)"/>
-<text x="68" y="278" fill="#D7E4F5" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="600">AI ENGINEERING  /  SOFTWARE ARCHITECTURE</text>
-<text x="68" y="320" fill="#93ACC7" font-family="Arial, Helvetica, sans-serif" font-size="22">Intelligent products. Reliable systems. Thoughtful code.</text>
-<!-- Glass code panel -->
-<rect x="845" y="58" width="482" height="274" rx="18" fill="url(#panel)" stroke="#5C6F98" stroke-opacity=".48" stroke-width="1.5"/>
-<rect x="845" y="58" width="482" height="48" rx="18" fill="#23324F" fill-opacity=".70"/>
-<path d="M845 88 H1327" stroke="#58708A" opacity=".3"/>
-<circle cx="876" cy="83" r="6" fill="#FF8695"/>
-<circle cx="898" cy="83" r="6" fill="#FFD27B"/>
-<circle cx="920" cy="83" r="6" fill="#6EE7B7"/>
-<text x="1180" y="89" fill="#93ABC8" font-family="monospace" font-size="14">engineer.ts</text>
-<text x="886" y="151" fill="#90A7CE" font-family="monospace" font-size="20">const </text>
-<text x="954" y="151" fill="#65DBCE" font-family="monospace" font-size="20">build</text>
-<text x="1021" y="151" fill="#D4DDF6" font-family="monospace" font-size="20"> = {</text>
-<text x="910" y="190" fill="#B7C7EB" font-family="monospace" font-size="20">focus:</text>
-<text x="987" y="190" fill="#A894FA" font-family="monospace" font-size="20">"AI + Systems"</text>
-<text x="1205" y="190" fill="#D4DDF6" font-family="monospace" font-size="20">,</text>
-<text x="910" y="228" fill="#B7C7EB" font-family="monospace" font-size="20">method:</text>
-<text x="1000" y="228" fill="#65DBCE" font-family="monospace" font-size="20">"Design → Build"</text>
-<text x="910" y="266" fill="#B7C7EB" font-family="monospace" font-size="20">standard:</text>
-<text x="1026" y="266" fill="#FFCD88" font-family="monospace" font-size="20">"Ship well"</text>
-<text x="886" y="303" fill="#D4DDF6" font-family="monospace" font-size="20">};</text>
-<path d="M1340 355 L1360 355 M1350 345 L1350 365" stroke="#5B9AB7" stroke-opacity=".55" stroke-width="2"/>
-<rect x="1" y="1" width="1398" height="388" rx="23" fill="none" stroke="#4D6A91" stroke-opacity=".32" stroke-width="2"/>
+<rect width="1200" height="350" fill="#080a0e"/>
+<path d="M0 0 H1200 V232 Q1104 227 1000 237 C872 254 777 265 656 252 C527 238 390 228 255 243 C152 252 70 237 0 229 Z" fill="url(#sky)"/>
+<rect x="0" y="0" width="1200" height="250" fill="url(#light)" opacity=".42"/>
+<path d="M0 232 C120 228 176 208 267 217 S444 246 570 221 S776 217 896 234 S1102 230 1200 220 V350 H0 Z" fill="#222427"/>
+<path d="M0 252 C112 242 167 212 239 218 C318 225 390 264 505 254 C612 245 671 208 770 216 C852 223 930 262 1020 252 C1094 244 1157 226 1200 232 V350 H0 Z" fill="url(#dune)"/>
+<path d="M758 219 C744 226 735 234 742 240 C756 251 826 254 799 266 C772 278 674 273 620 285 C564 298 640 309 713 315 C794 321 809 326 756 331 C700 337 612 340 595 350 L915 350 C961 337 954 321 903 310 C858 299 767 300 742 296 C715 289 824 289 867 281 C937 268 872 252 824 244 C794 238 763 230 777 225 Z" fill="url(#river)" opacity=".95"/>
+<path d="M0 269 C163 259 202 249 300 265 C412 282 476 297 562 309 C616 316 692 327 741 329 C678 344 568 350 475 350 H0 Z" fill="#090b0e"/>
+<path d="M1200 264 C1129 262 1048 256 1002 258 C952 261 927 273 901 282 C879 290 854 293 783 296 C852 303 933 309 975 322 C1028 338 988 345 940 350 H1200 Z" fill="#090b0e"/>
+<path d="M0 257 C96 250 203 235 288 245 C377 256 404 267 478 270 C415 275 322 267 240 267 C137 269 70 285 0 290 Z" fill="#16181a"/>
+<path d="M1200 249 C1089 251 1007 239 953 245 C906 250 878 257 834 261 C938 262 1025 280 1200 278 Z" fill="#15171a"/>
+<path d="M0 230 C138 219 181 209 249 221 C341 236 397 240 473 234 S601 215 675 221 S795 237 873 236 S1023 213 1200 228" fill="none" stroke="#f4f4ef" stroke-width="1.3" opacity=".32"/>
+<text x="35" y="31" fill="#e0e0df" font-family="monospace" font-size="11" letter-spacing=".8">SteveParadox / README.md</text>
+<path d="M32 42 H1168" stroke="#f4f4f4" stroke-width=".65" opacity=".23"/>
+<text x="600" y="129" text-anchor="middle" fill="#15171a" font-family="'Courier New', Courier, monospace" font-size="33" letter-spacing="1.5">Welcome to Xaven's GitHub</text>
+<text x="600" y="163" text-anchor="middle" fill="#292a2c" font-family="monospace" font-size="17" letter-spacing="2">&lt; / &gt;</text>
 </svg>
