@@ -79,6 +79,7 @@
 
 | Project | Engineering focus |
 |:--|:--|
+| **Arbitrage Bot** | Event-driven triangular arbitrage platform for Bybit Spot Testnet, featuring real-time market data, order-book synchronization, concurrency-aware execution, risk controls, three-leg route validation, and trade reconciliation. *Private project · Testnet validation in progress.* |
 | **[FinancialAgentia](https://github.com/SteveParadox/FinancialAgentia)** | AI-powered financial research, FastAPI services, durable Redis-backed research jobs, and browser workflows. |
 | **[CareerAtlas / Jobx](https://github.com/SteveParadox/Jobx)** | TypeScript job discovery platform with PostgreSQL, authentication, source ingestion, and background workers. *Staging validation.* |
 | **[Ezeji Assistant](https://github.com/SteveParadox/Ezeji-Assistant)** | AI-enabled business workspace, customer interactions, bookings, and integrated backend services. *Deployment verification ongoing.* |
