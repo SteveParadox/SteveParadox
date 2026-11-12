@@ -92,15 +92,29 @@
 
 ### ◫ Current focus
 
-<sub>The work behind the code.</sub>
+<sub>High-performance engineering · Intelligent systems · Scalable architecture</sub>
 
 </div>
 
-| Area | What I'm working on |
+| Engineering domain | What I'm exploring and building |
 |:--|:--|
-| **AI & Research** | Building useful AI-assisted research and product workflows. |
-| **Platforms** | Improving job discovery, background processing, and resilient APIs. |
-| **Systems & Open Source** | Exploring messaging infrastructure, protocol consistency, and regression testing. |
+| **Concurrency & Parallelism** | Async execution models, contention-aware design, thread safety, worker orchestration, and high-throughput processing. |
+| **Low-Latency Systems** | Non-blocking I/O, efficient messaging, performance profiling, backpressure, and latency-sensitive service architectures. |
+| **Edge Computing** | Distributed edge workloads, resource-aware inference, lightweight deployments, and compute closer to the data source. |
+| **Distributed Systems** | Fault tolerance, event-driven orchestration, horizontal scalability, consistency, and resilient service communication. |
+| **AI & Backend Infrastructure** | LLM applications, retrieval and inference pipelines, observable APIs, streaming data, and production-minded automation. |
+
+<br />
+
+<div align="center">
+
+### ◷ Coding consistency
+
+<sub>Current streak · Longest streak · Contribution days</sub>
+
+<img alt="Current streak, longest streak and contribution days for SteveParadox" src="https://streak-stats.demolab.com?user=SteveParadox&amp;hide_border=false&amp;border_radius=0&amp;background=0D1117&amp;border=31363F&amp;ring=F0F0F0&amp;fire=F0F0F0&amp;currStreakNum=F0F0F0&amp;sideNums=F0F0F0&amp;currStreakLabel=BCC0C6&amp;sideLabels=BCC0C6&amp;dates=8B949E&amp;stroke=31363F" width="70%" />
+
+</div>
 
 <br />
 
