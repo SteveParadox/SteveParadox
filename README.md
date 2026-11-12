@@ -1,72 +1,122 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" alt="Xaven — AI Engineering and Systems Architecture" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Welcome to Xaven's GitHub — monochrome landscape" width="100%" />
 </div>
 
 <div align="center">
 
-### AI Engineer · Software Architect · Backend & Distributed Systems
-
-I design and build intelligent products, reliable backends, and the infrastructure that connects them.
-
-[**Explore my work**](https://github.com/SteveParadox?tab=repositories) · [**Xavkit**](https://xavkit.com) · [**Open-source work**](https://github.com/SteveParadox/iggy)
+[![REPOSITORIES](https://img.shields.io/badge/REPOSITORIES-111317?style=flat-square&logo=github&logoColor=white&labelColor=111317)](https://github.com/SteveParadox?tab=repositories)
+[![XAVKIT](https://img.shields.io/badge/XAVKIT-111317?style=flat-square&logo=vercel&logoColor=white&labelColor=111317)](https://xavkit.com)
+[![OPEN SOURCE](https://img.shields.io/badge/OPEN%20SOURCE-111317?style=flat-square&logo=apache&logoColor=white&labelColor=111317)](https://github.com/SteveParadox/iggy)
+[![GITHUB](https://img.shields.io/badge/STEVEPARADOX-111317?style=flat-square&logo=github&logoColor=white&labelColor=111317)](https://github.com/SteveParadox)
 
 </div>
+
+<br />
+
+<div align="center">
+
+### ♙ About me
+
+</div>
+
+<table>
+<tr>
+<td width="70%" valign="middle">
+
+**Hi, I'm Xaven.** I work across **AI engineering, software architecture, and backend systems**, building practical products from the data layer to the user experience.
+
+My interests sit where intelligent software meets dependable infrastructure: LLM applications, distributed services, event-driven systems, and the kind of engineering that holds up outside a demo.
+
+- **Currently exploring:** LLM systems, reliable agent workflows, and low-latency infrastructure.
+- **Building:** AI-powered products, job discovery platforms, and developer-facing systems.
+- **Working with:** Python, Rust, TypeScript, Go, PostgreSQL, Redis, and Docker.
+- **Engineering principle:** Design carefully, test thoroughly, and keep the operational details honest.
+
+</td>
+<td width="30%" align="center" valign="middle">
+
+<img src="./assets/astronaut.svg" alt="Monochrome floating astronaut" width="210" />
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<div align="center">
+
+### ⚙ Technologies
+
+![Python](https://img.shields.io/badge/PYTHON-111317?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/RUST-111317?style=flat-square&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/GO-111317?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-111317?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-111317?style=flat-square&logo=javascript&logoColor=white)
+![C](https://img.shields.io/badge/C-111317?style=flat-square&logo=c&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/FASTAPI-111317?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/NEXT.JS-111317?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/REACT-111317?style=flat-square&logo=react&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PYTORCH-111317?style=flat-square&logo=pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-111317?style=flat-square&logo=docker&logoColor=white)
+![gRPC](https://img.shields.io/badge/GRPC-111317?style=flat-square&logo=googlecloud&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-111317?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/REDIS-111317?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/KAFKA-111317?style=flat-square&logo=apachekafka&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-111317?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-111317?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+<br />
+
+<div align="center">
+
+### ▤ Selected projects
+
+<sub>Products and engineering systems I've built and worked on.</sub>
+
+</div>
+
+| Project | Engineering focus |
+|:--|:--|
+| **[FinancialAgentia](https://github.com/SteveParadox/FinancialAgentia)** | AI-powered financial research, FastAPI services, durable Redis-backed research jobs, and browser workflows. |
+| **[CareerAtlas / Jobx](https://github.com/SteveParadox/Jobx)** | TypeScript job discovery platform with PostgreSQL, authentication, source ingestion, and background workers. *Staging validation.* |
+| **[Ezeji Assistant](https://github.com/SteveParadox/Ezeji-Assistant)** | AI-enabled business workspace, customer interactions, bookings, and integrated backend services. *Deployment verification ongoing.* |
+| **[Logify](https://github.com/SteveParadox/Logify-A-Smart-Server-Log-Classification-Microservice)** | Intelligent server-log classification combining regex, NLP models, and an LLM fallback. |
+| **[ZeroizePy](https://github.com/SteveParadox/ZeroizePy-lib)** | Python security utilities for sensitive-data handling and cryptographic erasure. |
+| **[Xavkit](https://github.com/SteveParadox/SEO)** | AI tools and prompts discovery experience built with Next.js and TypeScript. |
+
+<br />
+
+<div align="center">
+
+### ◫ Statistics
+
+<img alt="GitHub statistics for SteveParadox" src="https://github-readme-stats.vercel.app/api?username=SteveParadox&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;hide_border=false&amp;border_radius=0&amp;bg_color=0d1117&amp;border_color=31363f&amp;title_color=f0f0f0&amp;text_color=bcc0c6&amp;icon_color=e6e6e6" width="49%" />
+<img alt="GitHub streak statistics for SteveParadox" src="https://streak-stats.demolab.com?user=SteveParadox&amp;hide_border=false&amp;border_radius=0&amp;background=0D1117&amp;border=31363F&amp;ring=F0F0F0&amp;fire=F0F0F0&amp;currStreakNum=F0F0F0&amp;sideNums=F0F0F0&amp;currStreakLabel=BCC0C6&amp;sideLabels=BCC0C6&amp;dates=8B949E&amp;stroke=31363F" width="49%" />
+
+<br />
+
+<img alt="SteveParadox GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SteveParadox&amp;bg_color=0d1117&amp;color=bcc0c6&amp;title_color=f0f0f0&amp;line=e6e6e6&amp;point=ffffff&amp;area=true&amp;area_color=757575&amp;hide_border=false&amp;border_color=31363f&amp;custom_title=Contribution%20Activity" width="99%" />
+
+<sub>Statistics use third-party image services and may refresh with a delay or occasionally be unavailable. GitHub's own contribution activity below this README is authoritative.</sub>
+
+</div>
+
+<br />
+
+<div align="center">
+
+### ⌘ Open-source focus
+
+Working on transport configuration consistency and regression tests in my [Apache Iggy fork](https://github.com/SteveParadox/iggy). Work on a fork is not represented here as an upstream merge.
 
 ---
 
-### What I build
+<sub><b>BUILD WITH INTENT · TEST WITH DISCIPLINE · SHIP WITH CARE</b></sub>
 
-- **AI systems:** LLM applications, inference integrations, agent workflows, and applied machine learning.
-- **Backend platforms:** APIs, async workers, data pipelines, authentication, and service orchestration.
-- **Systems engineering:** Event-driven architecture, performance-minded services, messaging, and reliability.
-- **Product engineering:** Turning ambiguous requirements into useful, testable software.
-
-### Selected projects
-
-| Project | What it does | Core stack |
-|:--|:--|:--|
-| [**FinancialAgentia**](https://github.com/SteveParadox/FinancialAgentia) | Evidence-led financial research workspace with persistent research jobs and AI integrations. | Python · FastAPI · React · Redis |
-| [**CareerAtlas / Jobx**](https://github.com/SteveParadox/Jobx) | Job discovery and recruitment platform with provider ingestion and background processing. *Under staging validation.* | Next.js · TypeScript · PostgreSQL · BullMQ |
-| [**Ezeji Assistant**](https://github.com/SteveParadox/Ezeji-Assistant) | AI-enabled business workspace for customer interaction, bookings, and operations. *Deployment verification ongoing.* | React · Node.js · Supabase |
-| [**Logify**](https://github.com/SteveParadox/Logify-A-Smart-Server-Log-Classification-Microservice) | Log classification combining rules, semantic models, and an LLM fallback. | Python · FastAPI · NLP |
-| [**ZeroizePy**](https://github.com/SteveParadox/ZeroizePy-lib) | Python utilities for sensitive-data handling, memory clearing, and cryptographic erasure. | Python · Cryptography |
-| [**Xavkit**](https://github.com/SteveParadox/SEO) | Discovery and comparison experience for AI tools, prompts, and practical guides. | Next.js · React · TypeScript |
-
-### Toolbox
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-14233B?style=for-the-badge&logo=python&logoColor=74C7EC)
-![Rust](https://img.shields.io/badge/Rust-14233B?style=for-the-badge&logo=rust&logoColor=F0A875)
-![TypeScript](https://img.shields.io/badge/TypeScript-14233B?style=for-the-badge&logo=typescript&logoColor=74C7EC)
-![Go](https://img.shields.io/badge/Go-14233B?style=for-the-badge&logo=go&logoColor=74C7EC)
-
-![FastAPI](https://img.shields.io/badge/FastAPI-14233B?style=for-the-badge&logo=fastapi&logoColor=64D8BE)
-![Next.js](https://img.shields.io/badge/Next.js-14233B?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![PyTorch](https://img.shields.io/badge/PyTorch-14233B?style=for-the-badge&logo=pytorch&logoColor=F0A875)
-![Docker](https://img.shields.io/badge/Docker-14233B?style=for-the-badge&logo=docker&logoColor=74C7EC)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14233B?style=for-the-badge&logo=postgresql&logoColor=74C7EC)
-![Redis](https://img.shields.io/badge/Redis-14233B?style=for-the-badge&logo=redis&logoColor=F0A875)
-![Kafka](https://img.shields.io/badge/Kafka-14233B?style=for-the-badge&logo=apachekafka&logoColor=FFFFFF)
-![gRPC](https://img.shields.io/badge/gRPC-14233B?style=for-the-badge&logo=googlecloud&logoColor=64D8BE)
-
-</div>
-
-### Open source & current focus
-
-I'm working on transport configuration consistency and regression testing around **[Apache Iggy](https://github.com/apache/iggy)**, an open-source messaging system. My [fork](https://github.com/SteveParadox/iggy) tracks that engineering work; it should not be mistaken for an already-merged upstream contribution.
-
-I enjoy the problems behind the interface: making distributed components work together, giving AI systems dependable boundaries, and making complex software easier to operate.
-
----
-
-<div align="center">
-
-**Build deliberately. Test thoroughly. Ship what matters.**
-
-[GitHub repositories](https://github.com/SteveParadox?tab=repositories) · [Xavkit](https://xavkit.com)
-
-<sub>Engineering in public, with the details that matter.</sub>
+[Repositories](https://github.com/SteveParadox?tab=repositories) · [Xavkit](https://xavkit.com) · [Apache Iggy](https://github.com/apache/iggy)
 
 </div>
