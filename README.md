@@ -90,18 +90,17 @@
 
 <div align="center">
 
-### ◫ Statistics
+### ◫ Current focus
 
-<img alt="GitHub statistics for SteveParadox" src="https://github-readme-stats.vercel.app/api?username=SteveParadox&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;hide_border=false&amp;border_radius=0&amp;bg_color=0d1117&amp;border_color=31363f&amp;title_color=f0f0f0&amp;text_color=bcc0c6&amp;icon_color=e6e6e6" width="49%" />
-<img alt="GitHub streak statistics for SteveParadox" src="https://streak-stats.demolab.com?user=SteveParadox&amp;hide_border=false&amp;border_radius=0&amp;background=0D1117&amp;border=31363F&amp;ring=F0F0F0&amp;fire=F0F0F0&amp;currStreakNum=F0F0F0&amp;sideNums=F0F0F0&amp;currStreakLabel=BCC0C6&amp;sideLabels=BCC0C6&amp;dates=8B949E&amp;stroke=31363F" width="49%" />
-
-<br />
-
-<img alt="SteveParadox GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SteveParadox&amp;bg_color=0d1117&amp;color=bcc0c6&amp;title_color=f0f0f0&amp;line=e6e6e6&amp;point=ffffff&amp;area=true&amp;area_color=757575&amp;hide_border=false&amp;border_color=31363f&amp;custom_title=Contribution%20Activity" width="99%" />
-
-<sub>Statistics use third-party image services and may refresh with a delay or occasionally be unavailable. GitHub's own contribution activity below this README is authoritative.</sub>
+<sub>The work behind the code.</sub>
 
 </div>
+
+| Area | What I'm working on |
+|:--|:--|
+| **AI & Research** | Building useful AI-assisted research and product workflows. |
+| **Platforms** | Improving job discovery, background processing, and resilient APIs. |
+| **Systems & Open Source** | Exploring messaging infrastructure, protocol consistency, and regression testing. |
 
 <br />
 
@@ -109,7 +108,7 @@
 
 ### ⌘ Open-source focus
 
-Working on transport configuration consistency and regression tests in my [Apache Iggy fork](https://github.com/SteveParadox/iggy). Work on a fork is not represented here as an upstream merge.
+Working on transport configuration consistency and regression tests in my [Apache Iggy fork](https://github.com/SteveParadox/iggy).
 
 ---
 
